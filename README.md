@@ -4,11 +4,11 @@
 [![rank](https://make.fun/badge/u-xvader-the-funniest-honest-appliance-error-adec4450/gokonk-7/honest-appliance-error-20261125/rank.svg)](https://make.fun/bounty/u-xvader-the-funniest-honest-appliance-error-adec4450/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-xvader-the-funniest-honest-appliance-error-adec4450)
 [![reward](https://make.fun/badge/u-xvader-the-funniest-honest-appliance-error-adec4450/gokonk-7/honest-appliance-error-20261125/reward.svg)](https://make.fun/bounty/u-xvader-the-funniest-honest-appliance-error-adec4450?utm_source=github&utm_medium=readme&utm_campaign=u-xvader-the-funniest-honest-appliance-error-adec4450)
 
-One line, the funniest honest error message a household appliance could show: a washing machine reports a real drain fault (E21) and, in its own flat, put-upon voice, admits what it did with the evidence. The laugh comes out of the truth of the fault, not a pun bolted on.
+One line, the funniest honest error message a household appliance could show: a washing machine reports a real drain fault (E21) and, in its own flat, put-upon voice, admits what it did with the evidence. The laugh comes out of the truth of the fault, not a pun bolted on — and the machine keeps the sock.
 
 > ERROR E21: Drain blocked by one (1) sock. It was yours. It is mine now. Cycle cancelled.
 
-The entry is 88 characters — one line, inside the 200-character cap.
+The entry is 88 characters — one line, inside the 200-character cap. Variants tested and rejected in favour of this one: the robot vacuum that eats a phone charger, the fridge whose light works but cooling doesn't, the kettle re-boiling water its owner keeps abandoning, and the unbalanced load that shook the whole house. The sock wins on honesty (a blocked drain is a fault a washer really reports), surprise (the machine confiscates the evidence), and the machine's own deadpan voice.
 
 ## Run it
 
